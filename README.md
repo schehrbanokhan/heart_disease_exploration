@@ -2,6 +2,9 @@
 The Data set I used to conduct an exploratory dana analysis was taken from Kaggle. this data was published by UC Irvine in collabration with researchers from Hungary, Switzerland and Long Beach,CA.
 I spent some time taking a look at the data set and understanding what each column represented. Some of the columns were then dropped as there was inadequate information as to what they were being used for in this data set. This was a quick analysis and I primarily used histograms for visualization.
 
+Data set taken from:
+https://www.kaggle.com/ronitf/heart-disease-uci
+
 ![Heart](https://c-0pruhskhx78v9x24lpjx2ezhepgx2efrp.g01.webmd.com/g00/3_c-0zzz.zhepg.frp_/c-0PRUHSKHXV9x24kwwsvx3ax2fx2flpj.zhepg.frpx2fgwpfpvx2folyhx2fzhepgx2ffrqvx78phu_dvvhwvx2fvlwh_lpdjhvx2fduwlfohvx2fkhdowk_wrrovx2fglg_brx78_nqrz_wklv_frx78og_ohdg_wr_khduw_glvhdvh_volghvkrzx2f726vv_wklqnvwrfn_ui_khduw_loox78vwudwlrq.msjx3fl43f.pdunx3dlpdjh_$/$/$/$/$/$/$/$/$/$)
 
 ## Observations:
