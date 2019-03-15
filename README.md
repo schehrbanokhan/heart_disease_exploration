@@ -18,3 +18,6 @@ A healthy cholestrol level in most humans is less than 200. From this graph we l
 Most of the people in this data set had a fasting blood sugar level less than 120mg/dL
 
 The maximum heart rate acheived for most patients was about 160, with the average being 150.
+
+
+In the end, I made two seperate data frames one for male and the ther for female. This will prove useful in future analysis where I can analyze the data based on gender. 
