@@ -8,7 +8,7 @@ https://www.kaggle.com/ronitf/heart-disease-uci
 ![Heart](https://c-0pruhskhx78v9x24lpjx2ezhepgx2efrp.g01.webmd.com/g00/3_c-0zzz.zhepg.frp_/c-0PRUHSKHXV9x24kwwsvx3ax2fx2flpj.zhepg.frpx2fgwpfpvx2folyhx2fzhepgx2ffrqvx78phu_dvvhwvx2fvlwh_lpdjhvx2fduwlfohvx2fkhdowk_wrrovx2fglg_brx78_nqrz_wklv_frx78og_ohdg_wr_khduw_glvhdvh_volghvkrzx2f726vv_wklqnvwrfn_ui_khduw_loox78vwudwlrq.msjx3fl43f.pdunx3dlpdjh_$/$/$/$/$/$/$/$/$/$)
 
 ## Observations:
-Most peopl suffering heart attacks are between the age of 50 and 60. The mean age of a person who got a heart attack was 54.4.
+Most people suffering heart attacks are between the age of 50 and 60. The mean age of a person who got a heart attack was 54.4.
 
 Men suffer from heart attacks significantly more often than women. In fact the percentage of men suffering from a heart attack in this dataset was calulcated to be 68% while the percentage of women suffering from a heart attack was seen to be 32%.
 
